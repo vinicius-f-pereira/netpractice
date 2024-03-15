@@ -5,7 +5,7 @@ Esse projeto e relacionado a exercicios de administracao de sistemas.
 
 ## Tabela de Conteudo
 - [Mandatorio](#mandatorio)
-- [Repositorio](#repository)
+- [Repositorio](#repositorio)
 - [Videos](#videos)
 - [Download](#download)
 - [License](./LICENSE)
