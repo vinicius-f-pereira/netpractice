@@ -16,7 +16,7 @@ Esse projeto e baseado em solucionar problemas de redes para que elas funcionem.
 Eu posso tentar explicar o conceito de como esse projeto funciona, mas eu encontrei muitas fontes
 que tem uma explicacao melhor do que eu posso fazer. Vou deixar alguns links que podem ajudar abaixo.
 
-## Repository
+## Repositorio
 [Tim Blaase's Repository](https://github.com/tblaase/Net_Practice) \
 [lpaube's Repository](https://github.com/lpaube/NetPractice)
 
