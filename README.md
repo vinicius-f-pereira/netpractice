@@ -13,8 +13,9 @@ This document is a System Administration related exercise
 ## Mandatory part
 This project is about solving networking problems to make a network run.
 
-I can try to explain how the concept of this project works, but I found several repository that
-have a better explanation that I can do. So, I'll put links below.
+I can try to explain how the concept of this project works, but I found
+several repository that have a better explanation that I can do and so forth. 
+So, I'll put some helpful links below.
 
 ## Repository
 [Tim Blaase's Repository](https://github.com/tblaase/Net_Practice) \
