@@ -1,20 +1,20 @@
 [![eng](../../../stuff/blob/main/USA-icon.png)](README.md) ![pt-BR](../../../stuff/blob/main/Brazil-icon.png)
 
 # netpractice
-This document is a System Administration related exercise
+Esse projeto e relacionado a exercicios de administracao de sistemas.
 
-## Table of Contents
-- [Mandatory](#mandatory-part)
-- [Repository](#repository)
+## Tabela de Conteudo
+- [Mandatorio](#mandatorio)
+- [Repositorio](#repository)
 - [Videos](#videos)
 - [Download](#download)
 - [License](./LICENSE)
 
-## Mandatory part
-This project is about solving networking problems to make a network run.
+## Mandatorio
+Esse projeto e baseado em solucionar problemas de redes para que elas funcionem.
 
-I can try to explain how the concept of this project works, but I found several repository that
-have a better explanation that I can do and so forth. So, I'll put some helpful links below.
+Eu posso tentar explicar o conceito de como esse projeto funciona, mas eu encontrei muitas fontes
+que tem uma explicacao melhor do que eu posso fazer. Vou deixar alguns links que podem ajudar abaixo.
 
 ## Repository
 [Tim Blaase's Repository](https://github.com/tblaase/Net_Practice) \
